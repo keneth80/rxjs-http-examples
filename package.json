@@ -34,7 +34,9 @@
         "webpack-merge": "~4.2"
     },
     "dependencies": {
+        "axios": "^0.21.0",
         "d3": "^5.9.2",
+        "moment": "^2.29.1",
         "rxjs": "~6.5.2"
     }
 }

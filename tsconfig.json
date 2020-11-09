@@ -20,7 +20,8 @@
         "assets/*": ["./src/assets/*"]
       },
       "allowSyntheticDefaultImports": true,
-      "keyofStringsOnly": true
+      "keyofStringsOnly": true,
+      "resolveJsonModule": true
     },
     "include": [
       "./src/**/*"
